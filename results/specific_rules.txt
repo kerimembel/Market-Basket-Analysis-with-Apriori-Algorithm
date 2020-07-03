@@ -1,0 +1,5 @@
+                       antecedents         consequents   support  confidence      lift  leverage  conviction  antecedent_len
+500  (whole milk, root vegetables)  (other vegetables)  0.023183    0.474012  2.449770  0.013719    1.533320               2
+572  (whole milk, root vegetables)            (yogurt)  0.014540    0.297297  2.131136  0.007717    1.224555               2
+544  (whole milk, root vegetables)        (rolls/buns)  0.012710    0.259875  1.412865  0.003714    1.102605               2
+563  (whole milk, root vegetables)    (tropical fruit)  0.011998    0.245322  2.337931  0.006866    1.186028               2

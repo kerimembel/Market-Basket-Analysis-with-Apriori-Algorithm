@@ -1,0 +1,121 @@
+                                   antecedents           consequents   support  confidence      lift  leverage  conviction  antecedent_len
+499        (other vegetables, root vegetables)          (whole milk)  0.023183    0.489270  1.914833  0.011076    1.457687               2
+500              (whole milk, root vegetables)    (other vegetables)  0.023183    0.474012  2.449770  0.013719    1.533320               2
+498             (other vegetables, whole milk)     (root vegetables)  0.023183    0.309783  2.842082  0.015026    1.290900               2
+531             (other vegetables, whole milk)              (yogurt)  0.022267    0.297554  2.132979  0.011828    1.225003               2
+530                 (other vegetables, yogurt)          (whole milk)  0.022267    0.512881  2.007235  0.011174    1.528340               2
+532                       (yogurt, whole milk)    (other vegetables)  0.022267    0.397459  2.054131  0.011427    1.338511               2
+488             (other vegetables, rolls/buns)          (whole milk)  0.017895    0.420048  1.643919  0.007010    1.283699               2
+487             (other vegetables, whole milk)          (rolls/buns)  0.017895    0.239130  1.300082  0.004131    1.072543               2
+489                   (whole milk, rolls/buns)    (other vegetables)  0.017895    0.315978  1.633026  0.006937    1.179067               2
+515         (other vegetables, tropical fruit)          (whole milk)  0.017082    0.475921  1.862587  0.007911    1.420556               2
+516               (whole milk, tropical fruit)    (other vegetables)  0.017082    0.403846  2.087140  0.008898    1.352851               2
+514             (other vegetables, whole milk)      (tropical fruit)  0.017082    0.228261  2.175335  0.009229    1.159807               2
+560                       (yogurt, rolls/buns)          (whole milk)  0.015557    0.452663  1.771563  0.006775    1.360192               2
+559                   (whole milk, rolls/buns)              (yogurt)  0.015557    0.274686  1.969049  0.007656    1.186380               2
+558                       (whole milk, yogurt)          (rolls/buns)  0.015557    0.277677  1.509648  0.005252    1.129779               2
+579               (whole milk, tropical fruit)              (yogurt)  0.015150    0.358173  2.567516  0.009249    1.340701               2
+580                       (whole milk, yogurt)      (tropical fruit)  0.015150    0.270417  2.577089  0.009271    1.226823               2
+581                   (yogurt, tropical fruit)          (whole milk)  0.015150    0.517361  2.024770  0.007668    1.542528               2
+524           (whipped/sour cream, whole milk)    (other vegetables)  0.014642    0.454259  2.347679  0.008405    1.477820               2
+522     (other vegetables, whipped/sour cream)          (whole milk)  0.014642    0.507042  1.984385  0.007263    1.510239               2
+571                       (whole milk, yogurt)     (root vegetables)  0.014540    0.259528  2.381025  0.008433    1.203289               2
+573                  (yogurt, root vegetables)          (whole milk)  0.014540    0.562992  2.203354  0.007941    1.703594               2
+572              (whole milk, root vegetables)              (yogurt)  0.014540    0.297297  2.131136  0.007717    1.224555               2
+513                         (whole milk, soda)    (other vegetables)  0.013930    0.347716  1.797049  0.006178    1.236435               2
+512                   (other vegetables, soda)          (whole milk)  0.013930    0.425466  1.665124  0.005564    1.295805               2
+474                    (whole milk, pip fruit)    (other vegetables)  0.013523    0.449324  2.322178  0.007700    1.464578               2
+473              (other vegetables, pip fruit)          (whole milk)  0.013523    0.517510  2.025351  0.006846    1.543003               2
+421           (other vegetables, citrus fruit)          (whole milk)  0.013015    0.450704  1.763898  0.005636    1.355343               2
+422                 (whole milk, citrus fruit)    (other vegetables)  0.013015    0.426667  2.205080  0.007113    1.406699               2
+503                 (other vegetables, yogurt)     (root vegetables)  0.012913    0.297424  2.728698  0.008181    1.268192               2
+504        (other vegetables, root vegetables)              (yogurt)  0.012913    0.272532  1.953611  0.006303    1.182868               2
+505                  (yogurt, root vegetables)    (other vegetables)  0.012913    0.500000  2.584078  0.007916    1.613015               2
+544              (whole milk, root vegetables)          (rolls/buns)  0.012710    0.259875  1.412865  0.003714    1.102605               2
+543                   (whole milk, rolls/buns)     (root vegetables)  0.012710    0.224417  2.058896  0.006537    1.148814               2
+545              (rolls/buns, root vegetables)          (whole milk)  0.012710    0.523013  2.046888  0.006500    1.560804               2
+518                 (other vegetables, yogurt)      (tropical fruit)  0.012303    0.283372  2.700550  0.007747    1.249001               2
+446                (whole milk, domestic eggs)    (other vegetables)  0.012303    0.410169  2.119820  0.006499    1.367354               2
+445          (other vegetables, domestic eggs)          (whole milk)  0.012303    0.552511  2.162336  0.006613    1.663694               2
+519         (other vegetables, tropical fruit)              (yogurt)  0.012303    0.342776  2.457146  0.007296    1.309293               2
+520                   (yogurt, tropical fruit)    (other vegetables)  0.012303    0.420139  2.171343  0.006637    1.390863               2
+495          (tropical fruit, root vegetables)    (other vegetables)  0.012303    0.584541  3.020999  0.008231    1.941244               2
+494        (other vegetables, root vegetables)      (tropical fruit)  0.012303    0.259657  2.474538  0.007331    1.208991               2
+493         (other vegetables, tropical fruit)     (root vegetables)  0.012303    0.342776  3.144780  0.008391    1.355705               2
+481        (other vegetables, root vegetables)          (rolls/buns)  0.012201    0.257511  1.400010  0.003486    1.099093               2
+482              (rolls/buns, root vegetables)    (other vegetables)  0.012201    0.502092  2.594890  0.007499    1.619792               2
+480             (other vegetables, rolls/buns)     (root vegetables)  0.012201    0.286396  2.627525  0.007558    1.248594               2
+564          (tropical fruit, root vegetables)          (whole milk)  0.011998    0.570048  2.230969  0.006620    1.731553               2
+563              (whole milk, root vegetables)      (tropical fruit)  0.011998    0.245322  2.337931  0.006866    1.186028               2
+562               (whole milk, tropical fruit)     (root vegetables)  0.011998    0.283654  2.602365  0.007388    1.243814               2
+492                       (yogurt, rolls/buns)    (other vegetables)  0.011490    0.334320  1.727815  0.004840    1.211553               2
+490                 (other vegetables, yogurt)          (rolls/buns)  0.011490    0.264637  1.438753  0.003504    1.109745               2
+491             (other vegetables, rolls/buns)              (yogurt)  0.011490    0.269690  1.933235  0.005546    1.178264               2
+405                 (other vegetables, butter)          (whole milk)  0.011490    0.573604  2.244885  0.006371    1.745992               2
+406                       (whole milk, butter)    (other vegetables)  0.011490    0.416974  2.154987  0.006158    1.383313               2
+556               (tropical fruit, rolls/buns)          (whole milk)  0.010981    0.446281  1.746587  0.004694    1.344516               2
+554               (whole milk, tropical fruit)          (rolls/buns)  0.010981    0.259615  1.411452  0.003201    1.102218               2
+584               (whipped/sour cream, yogurt)          (whole milk)  0.010880    0.524510  2.052747  0.005580    1.565719               2
+585           (whipped/sour cream, whole milk)              (yogurt)  0.010880    0.337539  2.419607  0.006383    1.298943               2
+396                (bottled water, whole milk)    (other vegetables)  0.010778    0.313609  1.620783  0.004128    1.174998               2
+394          (other vegetables, bottled water)          (whole milk)  0.010778    0.434426  1.700192  0.004439    1.316334               2
+466                       (whole milk, pastry)    (other vegetables)  0.010574    0.318043  1.643695  0.004141    1.182636               2
+465                 (other vegetables, pastry)          (whole milk)  0.010574    0.468468  1.833421  0.004807    1.400639               2
+453  (other vegetables, fruit/vegetable juice)          (whole milk)  0.010473    0.497585  1.947371  0.005095    1.481809               2
+454        (whole milk, fruit/vegetable juice)    (other vegetables)  0.010473    0.393130  2.031756  0.005318    1.328962               2
+576                         (whole milk, soda)              (yogurt)  0.010473    0.261421  1.873964  0.004884    1.165073               2
+578                             (yogurt, soda)          (whole milk)  0.010473    0.382900  1.498535  0.003484    1.206423               2
+412           (other vegetables, citrus fruit)     (root vegetables)  0.010371    0.359155  3.295045  0.007224    1.390354               2
+413        (other vegetables, root vegetables)        (citrus fruit)  0.010371    0.218884  2.644626  0.006450    1.174262               2
+414            (citrus fruit, root vegetables)    (other vegetables)  0.010371    0.586207  3.029608  0.006948    1.949059               2
+432                     (yogurt, citrus fruit)          (whole milk)  0.010269    0.474178  1.855768  0.004736    1.415849               2
+434                 (whole milk, citrus fruit)              (yogurt)  0.010269    0.336667  2.413350  0.006014    1.297233               2
+477                   (other vegetables, pork)          (whole milk)  0.010168    0.469484  1.837394  0.004634    1.403319               2
+508                (other vegetables, sausage)          (whole milk)  0.010168    0.377358  1.476849  0.003283    1.195686               2
+509                      (whole milk, sausage)    (other vegetables)  0.010168    0.340136  1.757876  0.004384    1.222233               2
+528               (yogurt, whipped/sour cream)    (other vegetables)  0.010168    0.490196  2.533410  0.006154    1.581995               2
+478                         (whole milk, pork)    (other vegetables)  0.010168    0.458716  2.370714  0.005879    1.489988               2
+527     (other vegetables, whipped/sour cream)              (yogurt)  0.010168    0.352113  2.524073  0.006139    1.328160               2
+526                 (other vegetables, yogurt)  (whipped/sour cream)  0.010168    0.234192  3.267062  0.007056    1.212206               2
+442                             (yogurt, curd)          (whole milk)  0.010066    0.582353  2.279125  0.005649    1.782567               2
+441                         (whole milk, curd)              (yogurt)  0.010066    0.385214  2.761356  0.006421    1.399671               2
+485             (other vegetables, rolls/buns)                (soda)  0.009863    0.231504  1.327602  0.002434    1.074335               2
+486                         (soda, rolls/buns)    (other vegetables)  0.009863    0.257294  1.329738  0.002446    1.085905               2
+438                         (whole milk, curd)    (other vegetables)  0.009863    0.377432  1.950627  0.004807    1.295452               2
+484                   (other vegetables, soda)          (rolls/buns)  0.009863    0.301242  1.637765  0.003841    1.167880               2
+437                   (other vegetables, curd)          (whole milk)  0.009863    0.573964  2.246296  0.005472    1.747469               2
+547                      (sausage, rolls/buns)                (soda)  0.009659    0.315615  1.809953  0.004323    1.206371               2
+397                    (bottled water, yogurt)          (whole milk)  0.009659    0.420354  1.645118  0.003788    1.284377               2
+398                (bottled water, whole milk)              (yogurt)  0.009659    0.281065  2.014778  0.004865    1.196907               2
+450            (frozen vegetables, whole milk)    (other vegetables)  0.009659    0.472637  2.442661  0.005705    1.529321               2
+549                         (soda, rolls/buns)             (sausage)  0.009659    0.251989  2.682160  0.006058    1.211279               2
+548                            (sausage, soda)          (rolls/buns)  0.009659    0.397490  2.161034  0.005190    1.354441               2
+448      (other vegetables, frozen vegetables)          (whole milk)  0.009659    0.542857  2.124552  0.005113    1.628559               2
+540                    (whole milk, pip fruit)              (yogurt)  0.009558    0.317568  2.276441  0.005359    1.260928               2
+541                        (yogurt, pip fruit)          (whole milk)  0.009558    0.531073  2.078435  0.004959    1.587635               2
+457        (whole milk, fruit/vegetable juice)              (yogurt)  0.009456    0.354962  2.544497  0.005740    1.334027               2
+470                (tropical fruit, pip fruit)    (other vegetables)  0.009456    0.462687  2.391236  0.005502    1.501000               2
+458            (yogurt, fruit/vegetable juice)          (whole milk)  0.009456    0.505435  1.978094  0.004676    1.505330               2
+567           (whipped/sour cream, whole milk)     (root vegetables)  0.009456    0.293375  2.691555  0.005943    1.260926               2
+469              (other vegetables, pip fruit)      (tropical fruit)  0.009456    0.361868  3.448613  0.006714    1.402638               2
+468         (other vegetables, tropical fruit)           (pip fruit)  0.009456    0.263456  3.482649  0.006741    1.254985               2
+568      (whipped/sour cream, root vegetables)          (whole milk)  0.009456    0.553571  2.166484  0.005091    1.667644               2
+410                           (yogurt, butter)          (whole milk)  0.009354    0.638889  2.500387  0.005613    2.061648               2
+402                  (whole milk, brown bread)    (other vegetables)  0.009354    0.370968  1.917219  0.004475    1.282140               2
+409                       (whole milk, butter)              (yogurt)  0.009354    0.339483  2.433542  0.005510    1.302765               2
+551                      (whole milk, sausage)          (rolls/buns)  0.009354    0.312925  1.701282  0.003856    1.187738               2
+401            (other vegetables, brown bread)          (whole milk)  0.009354    0.500000  1.956825  0.004574    1.488968               2
+391                   (other vegetables, beef)          (whole milk)  0.009253    0.469072  1.835784  0.004212    1.402232               2
+461              (other vegetables, margarine)          (whole milk)  0.009253    0.469072  1.835784  0.004212    1.402232               2
+462                    (whole milk, margarine)    (other vegetables)  0.009253    0.382353  1.976059  0.004570    1.305774               2
+392                         (whole milk, beef)    (other vegetables)  0.009253    0.435407  2.250250  0.005141    1.428475               2
+424                 (whole milk, citrus fruit)     (root vegetables)  0.009151    0.300000  2.752332  0.005826    1.272859               2
+426            (citrus fruit, root vegetables)          (whole milk)  0.009151    0.517241  2.024301  0.004630    1.542145               2
+537                           (yogurt, pastry)          (whole milk)  0.009151    0.517241  2.024301  0.004630    1.542145               2
+536                       (whole milk, pastry)              (yogurt)  0.009151    0.275229  1.972945  0.004513    1.187270               2
+416         (other vegetables, tropical fruit)        (citrus fruit)  0.009049    0.252125  3.046248  0.006079    1.226454               2
+417           (other vegetables, citrus fruit)      (tropical fruit)  0.009049    0.313380  2.986526  0.006019    1.303587               2
+418             (tropical fruit, citrus fruit)    (other vegetables)  0.009049    0.454082  2.346765  0.005193    1.477341               2
+428               (whole milk, tropical fruit)        (citrus fruit)  0.009049    0.213942  2.584917  0.005548    1.166879               2
+429                 (whole milk, citrus fruit)      (tropical fruit)  0.009049    0.296667  2.827245  0.005849    1.272609               2
+430             (tropical fruit, citrus fruit)          (whole milk)  0.009049    0.454082  1.777116  0.003957    1.363728               2
